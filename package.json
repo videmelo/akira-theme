@@ -4,7 +4,8 @@
   "description": "akira theme",
   "publisher": "videmelo",
   "repository": "https://github.com/videmelo/akira-theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.103.0"
   },
